@@ -1,7 +1,7 @@
 https://github.com/fred260571/Open-Jedi-Knight-II-Demo
 
 
-### Build Star Wars Jedi Knight II: Jedi Outcast Demo on Mac , Linux or FreeBSD (with customized screen option)
+### Script to download and build Star Wars Jedi Knight II: Jedi Outcast Demo on Mac , Linux or FreeBSD (with customized screen option)
 
 ```bash
 curl -LO https://github.com/fred260571/Open-Jedi-Knight-II-Demo/blob/main/build.sh
