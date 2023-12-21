@@ -179,7 +179,8 @@ while true; do
             esac
 
         elif [ "$os_name" = "Darwin" ]; then
-            brew install zlib libjpeg libpng sdl2 p7zip git
+            brew update
+            brew install zlib libjpeg libpng sdl2 p7zip git cmake
         else
             echo "Unknown operating system: $os_name"
         fi
