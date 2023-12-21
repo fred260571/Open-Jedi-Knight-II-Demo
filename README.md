@@ -5,7 +5,7 @@ https://github.com/fred260571/Open-Jedi-Knight-II-Demo
 
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://github.com/fred260571/Open-Jedi-Knight-II-Demo/build.sh)"
+/bin/bash -c "$(curl -fsSL https://github.com/fred260571/Open-Jedi-Knight-II-Demo/blob/main/build.sh)"
 ```
 
 
