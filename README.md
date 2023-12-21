@@ -17,6 +17,10 @@ The script explains what it will do and then pauses before it does it.
 
 ***
 
+
+![Screenshot at 1920x1080](https://github.com/fred260571/Open-Jedi-Knight-II-Demo/blob/main/Jedi-Knight-II-Demo.jpg)
+
+
 hack I did in three days to play Star Wars Jedi Knight II: Jedi Outcast Demo because
 
 
@@ -24,7 +28,7 @@ hack I did in three days to play Star Wars Jedi Knight II: Jedi Outcast Demo bec
 source : https://jkhub.org/files/file/2701-jedi-knight-ii-jedi-outcast-demo/
 
 
-![Screenshot of Star Wars Jedi Knight II: Jedi Outcast Demo at 1920x1080][/Jedi-Knight-II-Demo.jpg]
+
 
 
 The map is from the web archive
