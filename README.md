@@ -22,7 +22,7 @@ The script explains what it will do and then pauses before it does it.
 Screenshot at 1920x1080
 
 
-hack I did in three days to play Star Wars Jedi Knight II: Jedi Outcast Demo because
+hack I did in three days to play "Star Wars Jedi Knight II: Jedi Outcast Demo" because
 
 
 >The demo contains one original level not available in the full game, where Kyle Katarn and Jan Ors investigate an Imperial Remnant base on Alzoc III, the Talz home planet.
