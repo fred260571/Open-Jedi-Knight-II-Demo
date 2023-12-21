@@ -21,6 +21,9 @@ The script explains what it will do and then pauses before it does it.
 ![Screenshot at 1920x1080](https://github.com/fred260571/Open-Jedi-Knight-II-Demo/blob/main/Jedi-Knight-II-Demo.jpg)
 
 
+Screenshot at 1920x1080
+
+
 hack I did in three days to play Star Wars Jedi Knight II: Jedi Outcast Demo because
 
 
